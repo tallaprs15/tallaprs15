@@ -6,7 +6,7 @@ I build production AI systems for real users: vision and document intelligence, 
 
 > 🔒 Most of my work is commercial and lives in private repos. The diagrams below describe the real systems. **I'm happy to walk through the code live or give a reviewer temporary read access.**
 
-<p align="center"><img src="assets/stats.svg" alt="37 microservices · 8 AI batch jobs · 24 LLM features · 6 agent frameworks · 4 apps · 21 subjects" width="100%"/></p>
+<p align="center"><img src="assets/stats.svg" alt="37 microservices · 8 AI batch jobs · 24 LLM features · 6 agent frameworks · 4 apps built · 21 subjects" width="100%"/></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -222,7 +222,7 @@ flowchart LR
 
 ---
 
-## 📱 Apps shipped
+## 📱 Apps
 
 | | Student web | Tutor Hub | iOS | Android |
 |---|:-:|:-:|:-:|:-:|
