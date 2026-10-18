@@ -20,10 +20,10 @@
     <text class="num" x="398" y="72">24</text><text class="lbl" x="398" y="100">LLM features</text><text class="lbl" x="398" y="118">hot-swappable models</text>
 
     <rect class="card" x="484" y="10" width="148" height="130" rx="12"/>
-    <text class="num" x="558" y="72">6</text><text class="lbl" x="558" y="100">agent frameworks</text><text class="lbl" x="558" y="118">ADK · MCP · LangGraph…</text>
+    <text class="num" x="558" y="72">6</text><text class="lbl" x="558" y="100">agent frameworks</text><text class="lbl" x="558" y="118">ADK · MCP · CrewAI</text>
 
     <rect class="card" x="644" y="10" width="148" height="130" rx="12"/>
-    <text class="num" x="718" y="72">4</text><text class="lbl" x="718" y="100">apps shipped</text><text class="lbl" x="718" y="118">student · tutor · iOS · Android</text>
+    <text class="num" x="718" y="72">4</text><text class="lbl" x="718" y="100">apps shipped</text><text class="lbl" x="718" y="118">web · iOS · Android</text>
 
     <rect class="card" x="804" y="10" width="148" height="130" rx="12"/>
     <text class="num" x="878" y="72">21</text><text class="lbl" x="878" y="100">subjects</text><text class="lbl" x="878" y="118">VCE + selective entry</text>
