@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 150" width="960" height="150" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+  <style>
+    .card{fill:#f6f8fa;stroke:#d0d7de}
+    .num{fill:#6d28d9;font-size:34px;font-weight:700}
+    .lbl{fill:#57606a;font-size:13px}
+    @media (prefers-color-scheme: dark){
+      .card{fill:#161b22;stroke:#30363d}
+      .num{fill:#a78bfa}
+      .lbl{fill:#8b949e}
+    }
+  </style>
+  <g text-anchor="middle">
+    <rect class="card" x="4" y="10" width="148" height="130" rx="12"/>
+    <text class="num" x="78" y="72">37</text><text class="lbl" x="78" y="100">microservices</text><text class="lbl" x="78" y="118">on Cloud Run</text>
+
+    <rect class="card" x="164" y="10" width="148" height="130" rx="12"/>
+    <text class="num" x="238" y="72">8</text><text class="lbl" x="238" y="100">AI batch jobs</text><text class="lbl" x="238" y="118">PDF → questions</text>
+
+    <rect class="card" x="324" y="10" width="148" height="130" rx="12"/>
+    <text class="num" x="398" y="72">24</text><text class="lbl" x="398" y="100">LLM features</text><text class="lbl" x="398" y="118">hot-swappable models</text>
+
+    <rect class="card" x="484" y="10" width="148" height="130" rx="12"/>
+    <text class="num" x="558" y="72">6</text><text class="lbl" x="558" y="100">agent frameworks</text><text class="lbl" x="558" y="118">ADK · MCP · LangGraph…</text>
+
+    <rect class="card" x="644" y="10" width="148" height="130" rx="12"/>
+    <text class="num" x="718" y="72">4</text><text class="lbl" x="718" y="100">apps shipped</text><text class="lbl" x="718" y="118">student · tutor · iOS · Android</text>
+
+    <rect class="card" x="804" y="10" width="148" height="130" rx="12"/>
+    <text class="num" x="878" y="72">21</text><text class="lbl" x="878" y="100">subjects</text><text class="lbl" x="878" y="118">VCE + selective entry</text>
+  </g>
+</svg>
