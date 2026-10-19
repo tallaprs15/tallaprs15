@@ -38,7 +38,7 @@ I build production AI systems for real users: document and vision intelligence, 
 | **[Agent a Day](https://github.com/tallaprs15/agent-a-day)** | A new open-source AI agent every day, built with Google ADK on public MCP servers. Every agent has guardrails, a cost meter and tests, and they're all evaluated live every night on a [public dashboard](https://tallaprs15.github.io/agent-a-day/). | Google ADK · Gemini · MCP · GitHub Actions | [![agents passing](https://img.shields.io/endpoint?url=https%3A%2F%2Ftallaprs15.github.io%2Fagent-a-day%2Fbadge.json)](https://tallaprs15.github.io/agent-a-day/) |
 | **[CCAR-P study guide](https://github.com/tallaprs15/ccar-p-study)** | Free, open study notes and interactive practice exams for the Claude Certified Architect – Professional exam, including a timed 63-item full-length paper. | VitePress · Vue · TypeScript | ✅ [Live site](https://ccar-p-study.netlify.app/) |
 | **Explainer reels pipeline** | Turns one data file into a narrated, caption-synced short video that explains a worked exam solution. | Remotion · React · neural TTS · ffmpeg | ✅ Working |
-| **[FlickRole](https://github.com/tallaprs15/flickrole-site)** | Swipe-based job discovery for Australia. | Swift · Kotlin · Supabase | 🔒 Private repo |
+| **[FlickRole](https://github.com/tallaprs15/flickrole-site)** | Swipe-based job discovery for Australia, with a feed that learns on the device (Bayesian learning-to-rank) and AI resume import. | SwiftUI · Jetpack Compose · Supabase · Gemini | 🚀 App Store submitted |
 
 ---
 
